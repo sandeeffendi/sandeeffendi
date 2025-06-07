@@ -1,4 +1,4 @@
-<div align="center">
+<div>
   <img src="https://drive.google.com/uc?export=view&id=1NHXA6M9I0oYkrZ_PcqZubagkBehs2MJS" alt="Gambar dari Google Drive">
 </div>
 
